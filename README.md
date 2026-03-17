@@ -83,6 +83,8 @@ class Rohit:
 </a> 
 </p>
 
+---
+
 ### 💻 Programming & Markup Languages
 <p>
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
