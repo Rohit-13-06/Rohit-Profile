@@ -118,7 +118,7 @@ class Rohit:
 
 ## 💡 QUOTE
 
-> "Code is poetry written in logic"
+> "Code with purpose, build with impact."
 
 ---
 
