@@ -45,6 +45,9 @@ class Rohit:
 <a href="https://github.com/Rohit-13-06">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
+<a href="mailto:yrohitprasad45@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
