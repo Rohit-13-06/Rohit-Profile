@@ -83,6 +83,34 @@ class Rohit:
 </a> 
 </p>
 
+### 💻 Programming & Markup Languages
+<p>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Web Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+---
+
 ---
 
 ## 🚧 PROJECTS
