@@ -9,7 +9,7 @@
 
 ## 🚀 ABOUT ME
 
-```python
+<pre>
 class Rohit:
     def __init__(self):
         self.role = "Future Software Engineer"
@@ -19,60 +19,109 @@ class Rohit:
 
     def motto(self):
         return "Code with purpose, build with impact"
-🌐 CONNECT WITH ME
-<p align="center"> <a href="https://www.linkedin.com/in/rohit-yerrarapu-6534ab290/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/Rohit-13-06"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
-🛠️ TECH STACK
-💻 Programming & Markup Languages
-<p> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/> </p>
-🗄️ Databases
-<p> <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white"/> </p>
-🌐 Web Tools & Platforms
-<p> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white"/> </p>
-⚙️ Other Competencies
+</pre>
 
-🎨 Responsive UI/UX Design
+---
 
-🔗 API Integration
+## 🌐 CONNECT WITH ME
 
-🐞 Debugging & Troubleshooting
+<p align="center">
+<a href="https://www.linkedin.com/in/rohit-yerrarapu-6534ab290/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/Rohit-13-06">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-⚡ Performance Optimization
+---
 
-🚧 PROJECTS
-🔹 Digital Evidence Management System
+## 🛠️ TECH STACK
 
-Secure crime evidence storage system
+### 💻 Programming & Markup Languages
+<p>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-Built with Java + Database integration
+---
 
-🔹 Local Issue Reporting Platform
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-Report and track local issues
+---
 
-Built with Django + HTML/CSS/JS
+### 🌐 Web Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-🔹 Mental Health Chatbot
+---
 
-Provides instant mental support
+### ⚙️ Other Competencies
+- 🎨 Responsive UI/UX Design  
+- 🔗 API Integration  
+- 🐞 Debugging & Troubleshooting  
+- ⚡ Performance Optimization  
 
-Includes mood detection quiz
+---
 
-📊 GITHUB STATS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rohit-13-06&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-13-06&theme=radical" /> </p>
-📈 MOST USED LANGUAGES
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-13-06&layout=compact&theme=radical" /> </p>
-📚 CURRENTLY
+## 🚧 PROJECTS
 
-🔭 Building real-world projects
+### 🔹 Digital Evidence Management System
+- Secure crime evidence storage system  
+- Built with Java + Database integration  
 
-🌱 Learning advanced DSA
+### 🔹 Local Issue Reporting Platform
+- Report and track local issues  
+- Built with Django + HTML/CSS/JS  
 
-⚡ Exploring backend development
+### 🔹 Mental Health Chatbot
+- Provides instant mental support  
+- Includes mood detection quiz  
 
-🎯 Goal: Crack top tech companies
+---
 
-💡 QUOTE
+## 📊 GITHUB STATS
 
-"Code is poetry written in logic"
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rohit-13-06&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-13-06&theme=radical"/>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohit-13-06&label=Profile%20views&color=blue&style=flat" /> </p> ```
+---
+
+## 📈 MOST USED LANGUAGES
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-13-06&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 📚 CURRENTLY
+
+- 🔭 Building real-world projects  
+- 🌱 Learning advanced DSA  
+- ⚡ Exploring backend development  
+- 🎯 Goal: Crack top tech companies  
+
+---
+
+## 💡 QUOTE
+
+> "Code is poetry written in logic"
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rohit-13-06&label=Profile%20views&color=blue&style=flat"/>
+</p>
